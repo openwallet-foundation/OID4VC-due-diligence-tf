@@ -12,7 +12,10 @@ This task force will investigate the specifications belonging to the OID4VC fami
 - Survey interested implementers needs
 - Survey existing implementations
 - Contacting the (potential) implementors to see whether they'd be open for hosting their work at OWF in an open development model
+- Foster and facilitate ecosystems for OID4VC protocol family implementations
+- Coordinate automated test events and provide interoperability tests
 - Create a plan for hosting implementations, if no codebase can be migrate then create a plan for suitable OID4VC implementations at OWF
+
 
 ## List of Deliverables or Work Products
 
@@ -20,7 +23,8 @@ This task force will investigate the specifications belonging to the OID4VC fami
     1. Definition of the necessary components and endpoints for the implementation of OID4VC specifications (potentially based on profiles of OID4VC)
     1. List of the requirements of interested implementers (e.g. features & platforms)
     1. Report of existing implementations (e.g. detailed feature set & platforms)
-- Contacting and documenting the (potential) implementors and their response to see whether they'd be open for hosting their work at OWF
+- Contacting and documenting the (potential) implementors and their response to see whether they'd be open for hosting their work at OWF with full autonomy of the contributing parties
+- In the case of multiple ecosystems, facilitating copatibility between implementations with (interoperability) tests --> Running automated conformance tests with specifications in the build repositories
 - Creation of a project plan for the continuation of the work as OWF projects
 
 ## Time to Complete
