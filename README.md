@@ -44,6 +44,6 @@ There are also interoperability profiles such as [high assurance profile](https:
 
 ## Meetings
 
-We meet virtually every two weeks on Wednesday at 5pm CEST, starting on the 21st of June 2023.
+We meet virtually every week on Wednesdays at 5pm CEST, starting on the 21st of June 2023.
 
 If you want to attend, please reach out to @hkny or @tlodderstedt. We will provide you with the conference details. 
