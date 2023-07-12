@@ -24,7 +24,7 @@ This task force will investigate the specifications belonging to the OID4VC fami
     1. List of the requirements of interested implementers (e.g. features & platforms)
     1. Report of existing implementations (e.g. detailed feature set & platforms)
 - Contacting and documenting the (potential) implementors and their response to see whether they'd be open for hosting their work at OWF with full autonomy of the contributing parties
-- In the case of multiple ecosystems, facilitating copatibility between implementations with (interoperability) tests --> Running automated conformance tests with specifications in the build repositories
+- In the case of multiple ecosystems, facilitating compatibility between implementations with (interoperability) tests --> Running automated conformance tests with specifications in the build repositories
 - Creation of a project plan for the continuation of the work as OWF projects
 
 ## Time to Complete
