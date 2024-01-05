@@ -6,16 +6,18 @@ Currently, the [OID4VC](https://openid.net/openid4vc/) components for implementi
 
 This task force will investigate the specifications belonging to the OID4VC family thoroughly, gather information about the needs of implementers, check the existing implementations, identify gaps, and come up with a plan how OWF projects can enable OID4VC implementations.
 
-## Objectives
+## Objectives & Goals
 
+- Bring existing or new code for OID4VC to OWF  
+_Create a plan for hosting implementations, if no codebase can be migrate then create a plan for suitable OID4VC implementations at OWF_
+- Survey interested implementers needs  
+_Understand what implementers are seeking for_
 - Deep dive into the specifications and profiles
-- Survey interested implementers needs
 - Survey existing implementations
-- Contacting the (potential) implementors to see whether they'd be open for hosting their work at OWF in an open development model
-- Foster and facilitate ecosystems for OID4VC protocol family implementations
+- Foster and facilitate ecosystems for OID4VC protocol family implementations  
+_Create an environment for implementers to demonstrate their implementation to the audience_
+- Contacting the (potential) implementors to see whether they'd be open for hosting their work at OWF in an open development model [x] 
 - Coordinate automated test events and provide interoperability tests
-- Create a plan for hosting implementations, if no codebase can be migrate then create a plan for suitable OID4VC implementations at OWF
-
 
 ## List of Deliverables or Work Products
 
