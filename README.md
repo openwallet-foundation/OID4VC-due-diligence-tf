@@ -29,6 +29,9 @@ _Create an environment for implementers to demonstrate their implementation to t
 - In the case of multiple ecosystems, facilitating compatibility between implementations with (interoperability) tests --> Running automated conformance tests with specifications in the build repositories
 - Creation of a project plan for the continuation of the work as OWF projects
 
+### Deliverables 
+- November 14, 2023: [Presentation OID4VC Due Diligence Task Force](https://docs.google.com/presentation/d/1xg5onqTUDrnsi3idrSFwDIg1hJCYMewy/edit#slide=id.p2)
+
 ## Time to Complete
 
 3 Months
