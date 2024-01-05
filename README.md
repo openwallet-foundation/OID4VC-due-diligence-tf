@@ -32,6 +32,14 @@ _Create an environment for implementers to demonstrate their implementation to t
 ### Deliverables 
 - November 14, 2023: [Presentation OID4VC Due Diligence Task Force](https://docs.google.com/presentation/d/1xg5onqTUDrnsi3idrSFwDIg1hJCYMewy/edit#slide=id.p2)
 
+## Working Tools
+* Communication: [OID4VC Due Diligence Task Force channel](https://openwallet-foundation.github.io/tac/task-forces/OID4VC-due-diligence/) `Discord channel`
+* Version Managment: [OID4VC Due Diligence Task Force](https://github.com/openwallet-foundation/OID4VC-due-diligence-tf) `Github repo`
+* [Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y181MjdhMWRiNjIxZmU3MDczMzg0MjFhOWM0YzdlZjJmNjE2MGI5NzM4MzhjZmRiYjUwZjBkYjMyYWQwZmQyMGViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+* Worksheets `Google Docs`
+  * [OID4VC Due Diligence TF Worksheet](https://docs.google.com/spreadsheets/d/1rHYkb4jK7Y4SWMTqH5xrT1C4iDvIWlkUPLRMqM3Jjyg/edit#gid=1271420689)
+  * [OID4VC Profiles](https://docs.google.com/spreadsheets/d/1s6REK5eNAb3GSElID0J02_TtbuI2Exd9z-CLdLx0emk/edit#gid=0)
+
 ## Time to Complete
 
 3 Months
