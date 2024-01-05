@@ -6,16 +6,18 @@ Currently, the [OID4VC](https://openid.net/openid4vc/) components for implementi
 
 This task force will investigate the specifications belonging to the OID4VC family thoroughly, gather information about the needs of implementers, check the existing implementations, identify gaps, and come up with a plan how OWF projects can enable OID4VC implementations.
 
-## Objectives
+## Objectives & Goals
 
+- Bring existing or new code for OID4VC to OWF  
+_Create a plan for hosting implementations, if no codebase can be migrate then create a plan for suitable OID4VC implementations at OWF_
+- Survey interested implementers needs  
+_Understand what implementers are seeking for_
 - Deep dive into the specifications and profiles
-- Survey interested implementers needs
 - Survey existing implementations
-- Contacting the (potential) implementors to see whether they'd be open for hosting their work at OWF in an open development model
-- Foster and facilitate ecosystems for OID4VC protocol family implementations
+- Foster and facilitate ecosystems for OID4VC protocol family implementations  
+_Create an environment for implementers to demonstrate their implementation to the audience_
+- Contacting the (potential) implementors to see whether they'd be open for hosting their work at OWF in an open development model [x] 
 - Coordinate automated test events and provide interoperability tests
-- Create a plan for hosting implementations, if no codebase can be migrate then create a plan for suitable OID4VC implementations at OWF
-
 
 ## List of Deliverables or Work Products
 
@@ -26,6 +28,17 @@ This task force will investigate the specifications belonging to the OID4VC fami
 - Contacting and documenting the (potential) implementors and their response to see whether they'd be open for hosting their work at OWF with full autonomy of the contributing parties
 - In the case of multiple ecosystems, facilitating compatibility between implementations with (interoperability) tests --> Running automated conformance tests with specifications in the build repositories
 - Creation of a project plan for the continuation of the work as OWF projects
+
+### Deliverables 
+- November 14, 2023: [Presentation OID4VC Due Diligence Task Force](https://docs.google.com/presentation/d/1xg5onqTUDrnsi3idrSFwDIg1hJCYMewy/edit#slide=id.p2)
+
+## Working Tools
+* Communication: [OID4VC Due Diligence Task Force channel](https://openwallet-foundation.github.io/tac/task-forces/OID4VC-due-diligence/) `Discord channel`
+* Version Managment: [OID4VC Due Diligence Task Force](https://github.com/openwallet-foundation/OID4VC-due-diligence-tf) `Github repo`
+* [Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y181MjdhMWRiNjIxZmU3MDczMzg0MjFhOWM0YzdlZjJmNjE2MGI5NzM4MzhjZmRiYjUwZjBkYjMyYWQwZmQyMGViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+* Worksheets `Google Docs`
+  * [OID4VC Due Diligence TF Worksheet](https://docs.google.com/spreadsheets/d/1rHYkb4jK7Y4SWMTqH5xrT1C4iDvIWlkUPLRMqM3Jjyg/edit#gid=1271420689)
+  * [OID4VC Profiles](https://docs.google.com/spreadsheets/d/1s6REK5eNAb3GSElID0J02_TtbuI2Exd9z-CLdLx0emk/edit#gid=0)
 
 ## Time to Complete
 
